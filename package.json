@@ -1,0 +1,14 @@
+{
+  "name": "livetypes",
+  "version": "0.2.0",
+  "description": "TypeScript base config with live types",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrablue/livetypes.git"
+  },
+  "exports": {
+    ".": "./tsconfig.json"
+  },
+  "type": "module"
+}
